@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Song Yang</h1>
 <h3 align="center">A passionate developer from China 🏃🏻‍♂️</h3>
 
-<div style="1px solid red">
+<div style="border: 1px solid red;">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
