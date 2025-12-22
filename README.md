@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Song Yang</h1>
 <h3 align="center">A passionate developer from China 🏃🏻‍♂️</h3>
 
-<picture>
+<picture align="Center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/pistachio214/pistachio214/blob/output/github-contribution-grid-snake.svg"
