@@ -1,5 +1,5 @@
 <p align="Center">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width ="400px">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width ="200px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Song Yang</h1>
