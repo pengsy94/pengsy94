@@ -2,7 +2,7 @@
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width ="200px">
 </p>
 
-<h1 align="center">Hi 👋, I'm pengsy</h1>
+<h1 align="center">Hi 👋, i'm pengsy</h1>
 <h3 align="center">A passionate developer from China 🏃🏻‍♂️</h3>
 
 <picture>
